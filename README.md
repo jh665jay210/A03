@@ -49,5 +49,10 @@ You can run your code  by clicking the green arrow head located in the "Navigati
   <li><b>Remote</b>: This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced.
   
   <li><b>Repository</b>: A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
+ 
     
+<h3>Refrences</h3>
+    <p> https://www.jetbrains.com/help/webstorm/guided-tour-around-the-user-interface.html </p>
+    <p> https://docs.github.com/en/get-started/quickstart/github-glossary </p>
+    <p>https://github.com/community/community/discussions/3228</p>
  
