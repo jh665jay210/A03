@@ -1,5 +1,5 @@
 # A03
-STEP 1: DIRECTIONS ON USING WEBSTORM 
+<h2>STEP 1: DIRECTIONS ON USING WEBSTORM</h2>
 
 <ol>
 <li>
@@ -25,7 +25,7 @@ You can run your code  by clicking the green arrow head located in the "Navigati
 </ol>
 
 
-PART 2: GITHUB TERMS
+<h2>PART 2: GITHUB TERMS</h2>
   <li><b>Branch</b>: A copy version of a repository that does not affect the master branch and allows you to code freely without disrupting your original version.
   
   <li><b>Clone</b>: A copy of a repository that resides in your computer rather than online.
@@ -49,3 +49,5 @@ PART 2: GITHUB TERMS
   <li><b>Remote</b>: This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced.
   
   <li><b>Repository</b>: A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
+    
+ 
