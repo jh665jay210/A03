@@ -23,3 +23,29 @@ The screen where you write your code is called the "Editor" and is located on th
 You can run your code  by clicking the green arrow head located in the "Navigation Bar" (above your editor).
 </li>
 </ol>
+
+
+PART 2: GITHUB TERMS
+  <li><b>Branch</b>: A copy version of a repository that does not affect the master branch and allows you to code freely without disrupting your original version.
+  
+  <li><b>Clone</b>: A copy of a repository that resides in your computer rather than online.
+
+  <li><b>Commit</b>: It is a change to a file or multiple files, that includes a brief description of what the changes to the files were made.
+ 
+<li><b>Fetch</b>: Fetching from a repository grabs all the new remote-tracking branches and tags without merging those changes into your own branches.
+<li><b>GIT</b>: Git is an open source program for tracking changes in text files.
+  
+<li><b>Github</b>: It is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. 
+  
+  <li><b>Merge</b>: Takes the changes from one branch (in the same repository or from a fork), and applies them into another. I can be done automatically via a pull request via the GitHub web interface.
+  
+  <li><b>Merge Conflict</b>: This happens when a person makes different changes to the same line of the same file, or when one person edits a file and another person deletes the same file. The merge conflict must be resolved before you can merge the branches.
+    
+    
+  <li><b>Push</b>: Sending your committed changes to a remote repository, such as a repository hosted on GitHub.
+
+  <li><b>Pull</b>: When you are fetching changes and merging them.
+
+  <li><b>Remote</b>: This is the version of a repository or branch that is hosted on a server, most likely GitHub.com. Remote versions can be connected to local clones so that changes can be synced.
+  
+  <li><b>Repository</b>: A repository contains all of the project files (including documentation), and stores each file's revision history. Repositories can have multiple collaborators and can be either public or private.
