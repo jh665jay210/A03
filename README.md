@@ -1,5 +1,19 @@
 # A03
-<h2>STEP 1: DIRECTIONS ON USING WEBSTORM</h2>
+<h2> SETTING UP GITHUB </h2>
+<ol> 
+  <li> Create a github account: https://github.com/join
+  <li> You can create repositories that can be woprked on collaboratively with other people. You click on the plus sign next to your sign in icon. 
+   <li> Add your repository name
+   <li> Decide whether you want it to be public or private, dependeing on your needs. Then click "create repository"
+  </li>   
+</ol>
+
+<h2> Install Git as a Local Program </h2>
+<li> Download: https://git-scm.com/downloads </li>
+
+
+
+<h2>DIRECTIONS ON USING WEBSTORM</h2>
 
 <ol>
 <li>
